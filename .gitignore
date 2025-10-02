@@ -2,7 +2,7 @@
 node_modules/
 
 # Compilados por WP Scripts
-build/
+# build/
 
 # Archivos del sistema
 .DS_Store
@@ -11,3 +11,5 @@ Thumbs.db
 # Archivos temporales
 *.log
 *.tmp
+
+package-lock.json

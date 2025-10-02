@@ -1,0 +1,35 @@
+{
+  "apiVersion": 2,
+  "name": "custom-blocks/productos-mas-vendidos",
+  "title": "Productos Más Vendidos",
+  "category": "custom-blocks",
+  "icon": "cart",
+  "description": "Muestra los productos más vendidos de WooCommerce.",
+  "supports": {
+    "html": false,
+    "align": true,
+    "spacing": {
+      "padding": true,
+      "margin": true
+    },
+    "color": {
+      "background": true,
+      "text": true
+    }
+  },
+  "attributes": {
+    "cantidad": {
+      "type": "number",
+      "default": 6
+    }
+  },
+  "example": {
+    "attributes": {
+      "cantidad": 6
+    }
+  },
+  "editorScript": "file:./index.js",
+  "style": "file:./style-index.css",
+  "editorStyle": "file:./index.css",
+  "render": "file:./render.php"
+}
