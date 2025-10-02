@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+
+# Compilados por WP Scripts
+build/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos temporales
+*.log
+*.tmp
