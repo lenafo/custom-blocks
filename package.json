@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Custom blocks for Gutenberg",
   "author": "Leonardo Navarro <lenafo612@gmail.com>",
-  "license": "GPL-2.0-or-later",
+  "license": "GPLv3",
   "scripts": {
     "build": "wp-scripts build",
     "start": "wp-scripts start",
