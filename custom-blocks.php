@@ -6,7 +6,7 @@
  * Author: Pentaseis
  * Author URI: https://pentaseis.com
  * GitHub Plugin URI: https://github.com/lenafo/custom-blocks
- * License: GPLv2 or later
+ * License: GPL-2.0-or-later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  */
 
